@@ -12,6 +12,8 @@ Custom zsh setup with fastfetch animations and useful plugins.
 
 ### Fastfetch with Lain ASCII Art
 ![Fastfetch Display](screenshots/lainfastfetch.png)
+
+### Launch animation with a blinking eye
 ![Launch Animation](screenshots/eyeanimation.png)
 
 
