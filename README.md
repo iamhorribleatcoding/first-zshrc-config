@@ -11,7 +11,8 @@ Custom zsh setup with fastfetch animations and useful plugins.
 ## Screenshots
 
 ### Fastfetch with Lain ASCII Art
-![Fastfetch Display](screenshots/fastfetch-lain.png)
+![Fastfetch Display](screenshots/lainfastfetch.png)
+![Launch Animation] (screenshots/eyeanimation.png)
 
 
 ## Prerequisites
