@@ -8,6 +8,11 @@ Custom zsh setup with fastfetch animations and useful plugins.
 - Kitty terminal startup animation
 - Git plugin
 - thefuck command correction
+## Screenshots
+
+### Fastfetch with Lain ASCII Art
+![Fastfetch Display](screenshots/fastfetch-lain.png)
+
 
 ## Prerequisites
 - [Oh My Zsh](https://ohmyz.sh/)
