@@ -1,5 +1,3 @@
-# My ZSH Configuration
-
 Custom zsh setup with fastfetch animations and useful plugins.
 
 ## Features
@@ -25,7 +23,7 @@ Custom zsh setup with fastfetch animations and useful plugins.
 
 ## Installation
 ```bash
-git clone https://github.com/iamhorribleatcoding/dotfiles.git
+git clone https://github.com/iamhorribleatcoding/first-zshrc-config.git
 cd dotfiles
 chmod +x install.sh
 ./install.sh
